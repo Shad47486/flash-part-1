@@ -1,4 +1,4 @@
-ssh Reshad@20.226.76.149 (azure)
+ssh Reshad@20.226.76.149 #(azure)
 #allows connection to VM from my ssh
 sudo apt-get update
 sudo apt install python3-pip
